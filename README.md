@@ -1,2 +1,2 @@
 # udemy-angular
-Intro to Angular practice exercises
+Introduction to AngularJS practice exercises
